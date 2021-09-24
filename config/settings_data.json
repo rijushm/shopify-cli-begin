@@ -23,10 +23,10 @@
           "hero_layout": "full_width",
           "hero_size": "large",
           "text_size": "large",
-          "title": "Makes Memories Special",
+          "title": "Makes Memories Happy",
           "text": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
-          "button_label": "",
-          "button_link": ""
+          "button_label": "View All Collections",
+          "button_link": "#"
         }
       },
       "feature-row": {
@@ -34,7 +34,7 @@
         "settings": {
           "image": "shopify:\/\/shop_images\/mediamodifier-elbKS4DY21g-unsplash.jpg",
           "layout": "left",
-          "title": "Image with text",
+          "title": "This is a demo shopify store by Riju",
           "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
           "button_label": "",
           "button_link": ""
